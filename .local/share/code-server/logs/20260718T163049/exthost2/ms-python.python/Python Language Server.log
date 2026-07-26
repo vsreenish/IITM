@@ -1,0 +1,58 @@
+2026-07-18 16:52:14.822 [info] semantic_tokens_range file:///voc/work/W2_package/Practice%20Demo/pydantic_demo_takeaway.py 0:0-44:33
+2026-07-18 16:52:14.848 [info] semantic_tokens_full file:///voc/work/W2_package/Practice%20Demo/pydantic_demo_takeaway.py 
+2026-07-18 16:52:15.230 [info] [Debug - 4:52:15 PM] no definitions found for name "name" of type 'statement' (45:13)
+2026-07-18 16:52:15.230 [info] [Debug - 4:52:15 PM] no definitions found for name "age" of type 'statement' (45:26)
+2026-07-18 16:52:15.636 [info] [Debug - 4:52:15 PM] no definitions found for name "name" of type 'statement' (45:13)
+2026-07-18 16:52:15.636 [info] [Debug - 4:52:15 PM] no definitions found for name "age" of type 'statement' (45:26)
+2026-07-18 16:52:15.640 [info] [Debug - 4:52:15 PM] no definitions found for name "name" of type 'statement' (51:14)
+2026-07-18 16:52:15.640 [info] [Debug - 4:52:15 PM] no definitions found for name "age" of type 'statement' (51:25)
+2026-07-18 16:52:15.647 [info] [Debug - 4:52:15 PM] no definitions found for name "r" of type 'statement' (54:69)
+2026-07-18 16:52:15.647 [info] [Debug - 4:52:15 PM] no definitions found for name "name" of type 'statement' (57:14)
+2026-07-18 16:52:15.651 [info] [Debug - 4:52:15 PM] no definitions found for name "age" of type 'statement' (57:26)
+2026-07-18 16:52:15.653 [info] [Debug - 4:52:15 PM] no definitions found for name "name" of type 'statement' (75:13)
+2026-07-18 16:52:15.656 [info] [Debug - 4:52:15 PM] no definitions found for name "age" of type 'statement' (75:26)
+2026-07-18 16:52:16.117 [info] [Debug - 4:52:16 PM] no definitions found for name "summary" of type 'statement' (107:43)
+2026-07-18 16:52:16.118 [info] [Debug - 4:52:16 PM] no definitions found for name "confidence" of type 'statement' (108:43)
+2026-07-18 16:52:16.122 [info] [Debug - 4:52:16 PM] no definitions found for name "sources" of type 'statement' (109:43)
+2026-07-18 16:52:16.122 [info] [Debug - 4:52:16 PM] multiple definitions found for name "exc" of type 'statement' (134:14):
+ <Name full_name='W2_package.Practice Demo.pydantic_demo_takeaway.demo_ai_use_case.exc', description='try: ExpectedAnswer.model_validate_json(missing) except ValidationError as exc: print(exc)'>
+<Name full_name='W2_package.Practice Demo.pydantic_demo_takeaway.demo_ai_use_case.exc', description='try: ExpectedAnswer.model_validate_json(bad_type) except ValidationError as exc: print(exc)'>
+2026-07-18 16:52:16.138 [info] [Debug - 4:52:16 PM] no definitions found for name "r" of type 'statement' (159:35)
+2026-07-18 16:52:16.139 [info] [Debug - 4:52:16 PM] no matching semantic token for "__name__" of type 'statement' (164:3)
+2026-07-18 16:53:10.253 [info] semantic_tokens_full file:///voc/work/W2_package/Practice_demo/pydantic_demo_takeaway.py 
+2026-07-18 16:53:10.277 [info] [Debug - 4:53:10 PM] no definitions found for name "name" of type 'statement' (45:13)
+2026-07-18 16:53:10.278 [info] [Debug - 4:53:10 PM] no definitions found for name "age" of type 'statement' (45:26)
+2026-07-18 16:53:10.282 [info] [Debug - 4:53:10 PM] no definitions found for name "name" of type 'statement' (51:14)
+2026-07-18 16:53:10.282 [info] [Debug - 4:53:10 PM] no definitions found for name "age" of type 'statement' (51:25)
+2026-07-18 16:53:10.287 [info] [Debug - 4:53:10 PM] no definitions found for name "r" of type 'statement' (54:69)
+2026-07-18 16:53:10.288 [info] [Debug - 4:53:10 PM] no definitions found for name "name" of type 'statement' (57:14)
+2026-07-18 16:53:10.291 [info] [Debug - 4:53:10 PM] no definitions found for name "age" of type 'statement' (57:26)
+2026-07-18 16:53:10.292 [info] [Debug - 4:53:10 PM] no definitions found for name "name" of type 'statement' (75:13)
+2026-07-18 16:53:10.296 [info] [Debug - 4:53:10 PM] no definitions found for name "age" of type 'statement' (75:26)
+2026-07-18 16:53:10.315 [info] [Debug - 4:53:10 PM] no definitions found for name "summary" of type 'statement' (107:43)
+2026-07-18 16:53:10.315 [info] [Debug - 4:53:10 PM] no definitions found for name "confidence" of type 'statement' (108:43)
+2026-07-18 16:53:10.319 [info] [Debug - 4:53:10 PM] no definitions found for name "sources" of type 'statement' (109:43)
+2026-07-18 16:53:10.319 [info] [Debug - 4:53:10 PM] multiple definitions found for name "exc" of type 'statement' (134:14):
+ <Name full_name='W2_package.Practice_demo.pydantic_demo_takeaway.demo_ai_use_case.exc', description='try: ExpectedAnswer.model_validate_json(missing) except ValidationError as exc: print(exc)'>
+<Name full_name='W2_package.Practice_demo.pydantic_demo_takeaway.demo_ai_use_case.exc', description='try: ExpectedAnswer.model_validate_json(bad_type) except ValidationError as exc: print(exc)'>
+2026-07-18 16:53:10.334 [info] [Debug - 4:53:10 PM] no definitions found for name "r" of type 'statement' (159:35)
+2026-07-18 16:53:10.336 [info] [Debug - 4:53:10 PM] no matching semantic token for "__name__" of type 'statement' (164:3)
+2026-07-18 16:57:02.708 [info] semantic_tokens_range file:///voc/work/Practice_demo/pydantic_demo_v1.py 0:0-32:70
+2026-07-18 16:57:02.735 [info] [Debug - 4:57:02 PM] no definitions found for name "name" of type 'statement' (25:16)
+2026-07-18 16:57:02.735 [info] [Debug - 4:57:02 PM] no definitions found for name "age" of type 'statement' (25:30)
+2026-07-18 16:57:02.739 [info] [Debug - 4:57:02 PM] no definitions found for name "email" of type 'statement' (25:38)
+2026-07-18 16:57:04.207 [info] semantic_tokens_full file:///voc/work/Practice_demo/pydantic_demo_v1.py 
+2026-07-18 16:57:04.230 [info] [Debug - 4:57:04 PM] no definitions found for name "name" of type 'statement' (25:16)
+2026-07-18 16:57:04.230 [info] [Debug - 4:57:04 PM] no definitions found for name "age" of type 'statement' (25:30)
+2026-07-18 16:57:04.234 [info] [Debug - 4:57:04 PM] no definitions found for name "email" of type 'statement' (25:38)
+2026-07-18 16:57:04.236 [info] [Debug - 4:57:04 PM] no definitions found for name "name" of type 'statement' (35:13)
+2026-07-18 16:57:04.239 [info] [Debug - 4:57:04 PM] no definitions found for name "age" of type 'statement' (35:25)
+2026-07-18 16:57:04.239 [info] [Debug - 4:57:04 PM] no definitions found for name "email" of type 'statement' (35:33)
+2026-07-18 16:57:04.239 [info] [Debug - 4:57:04 PM] no definitions found for name "name" of type 'statement' (44:13)
+2026-07-18 16:57:04.239 [info] [Debug - 4:57:04 PM] no definitions found for name "age" of type 'statement' (44:27)
+2026-07-18 16:57:04.239 [info] [Debug - 4:57:04 PM] no definitions found for name "email" of type 'statement' (44:41)
+2026-07-18 16:57:04.244 [info] [Debug - 4:57:04 PM] no definitions found for name "name" of type 'statement' (52:16)
+2026-07-18 16:57:04.244 [info] [Debug - 4:57:04 PM] no definitions found for name "age" of type 'statement' (52:29)
+2026-07-18 16:57:04.244 [info] [Debug - 4:57:04 PM] no definitions found for name "email" of type 'statement' (52:39)
+2026-07-18 16:57:04.244 [info] [Debug - 4:57:04 PM] no definitions found for name "r" of type 'statement' (53:35)
+2026-07-18 16:57:04.249 [info] [Debug - 4:57:04 PM] no matching semantic token for "__name__" of type 'statement' (65:3)

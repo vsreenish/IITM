@@ -1,0 +1,60 @@
+[2026-07-18T16:30:48.979Z] info  code-server 4.103.2 54b33a75e0b4593b77f9a217323c4b27a42f4073
+[2026-07-18T16:30:48.980Z] info  Using user-data-dir /voc/work/.local/share/code-server
+[2026-07-18T16:30:48.997Z] info  Using config file /voc/work/.config/code-server/config.yaml
+[2026-07-18T16:30:48.997Z] info  HTTP server listening on http://0.0.0.0:8081/
+[2026-07-18T16:30:48.998Z] info    - Authentication is disabled
+[2026-07-18T16:30:48.998Z] info    - Not serving HTTPS
+[2026-07-18T16:30:48.998Z] info  Session server listening on /voc/work/.local/share/code-server/code-server-ipc.sock
+[16:30:49] 
+
+
+
+
+[16:30:49] Extension host agent started.
+[16:30:49] Started initializing default profile extensions in extensions installation folder. file:///voc/work/.local/share/code-server/extensions
+[16:30:49] Completed initializing default profile extensions in extensions installation folder. file:///voc/work/.local/share/code-server/extensions
+[16:30:55] [172.16.2.1][5aa39f50][ManagementConnection] New connection established.
+[16:30:57] [172.16.2.1][5c642bb5][ExtensionHostConnection] New connection established.
+[16:30:57] [172.16.2.1][5c642bb5][ExtensionHostConnection] <80> Launched Extension Host Process.
+[16:38:13] [172.16.2.1][5aa39f50][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[16:38:13] [172.16.2.1][5c642bb5][ExtensionHostConnection] <80> Extension Host Process exited with code: 0, signal: null.
+[16:38:19] [172.16.2.1][d5440097][ManagementConnection] New connection established.
+[16:38:20] [172.16.2.1][fc787490][ExtensionHostConnection] New connection established.
+[16:38:20] [172.16.2.1][fc787490][ExtensionHostConnection] <1486> Launched Extension Host Process.
+[19:17:43] [172.16.2.1][d5440097][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2026-07-19T15:59:15.062Z] info  code-server 4.103.2 54b33a75e0b4593b77f9a217323c4b27a42f4073
+[2026-07-19T15:59:15.063Z] info  Using user-data-dir /voc/work/.local/share/code-server
+[2026-07-19T15:59:15.083Z] info  Using config file /voc/work/.config/code-server/config.yaml
+[2026-07-19T15:59:15.083Z] info  HTTP server listening on http://0.0.0.0:8081/
+[2026-07-19T15:59:15.083Z] info    - Authentication is disabled
+[2026-07-19T15:59:15.083Z] info    - Not serving HTTPS
+[2026-07-19T15:59:15.083Z] info  Session server listening on /voc/work/.local/share/code-server/code-server-ipc.sock
+[15:59:16] 
+
+
+
+
+[15:59:16] Extension host agent started.
+[15:59:23] [172.16.10.1][d7526a73][ManagementConnection] New connection established.
+[15:59:25] [172.16.10.1][4fcabf9e][ExtensionHostConnection] New connection established.
+[15:59:25] [172.16.10.1][4fcabf9e][ExtensionHostConnection] <77> Launched Extension Host Process.
+[17:31:17] [172.16.10.1][d7526a73][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[17:31:17] [172.16.10.1][4fcabf9e][ExtensionHostConnection] <77> Extension Host Process exited with code: 0, signal: null.
+[2026-07-26T20:29:51.386Z] info  code-server 4.103.2 54b33a75e0b4593b77f9a217323c4b27a42f4073
+[2026-07-26T20:29:51.387Z] info  Using user-data-dir /voc/work/.local/share/code-server
+[2026-07-26T20:29:51.412Z] info  Using config file /voc/work/.config/code-server/config.yaml
+[2026-07-26T20:29:51.412Z] info  HTTP server listening on http://0.0.0.0:8081/
+[2026-07-26T20:29:51.412Z] info    - Authentication is disabled
+[2026-07-26T20:29:51.412Z] info    - Not serving HTTPS
+[2026-07-26T20:29:51.412Z] info  Session server listening on /voc/work/.local/share/code-server/code-server-ipc.sock
+[20:29:52] 
+
+
+
+
+[20:29:52] Extension host agent started.
+[20:29:57] [172.16.0.193][7110c31e][ManagementConnection] New connection established.
+[20:29:58] [172.16.0.193][bba0418e][ExtensionHostConnection] New connection established.
+[20:29:58] [172.16.0.193][bba0418e][ExtensionHostConnection] <91> Launched Extension Host Process.
+[21:53:42] [172.16.0.193][7110c31e][ManagementConnection] The client has reconnected.
+[21:53:43] [172.16.0.193][bba0418e][ExtensionHostConnection] The client has reconnected.
