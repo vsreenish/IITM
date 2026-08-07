@@ -1,3 +1,23 @@
 .local/
 .voc/
 .claude/
+
+# ---- Log files ----
+*.log
+logs/
+
+# ---- Python bytecode / caches ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ---- Environments & secrets ----
+.env
+.venv/
+venv/
+
+# ---- OS / misc ----
+.DS_Store
+Thumbs.db
