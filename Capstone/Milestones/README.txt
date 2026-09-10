@@ -1,0 +1,1 @@
+Captsone project has multiple milestones spread across 8 months. Currently we are at Milestone 1 during Week 5.

@@ -1,0 +1,16 @@
+# MP1 · Prompt Lab — Python dependencies
+# Versions below are the ones this submission was run and verified against.
+
+openai>=1.30.0          # AsyncOpenAI client for the 40 worker calls + judge calls
+pandas>=2.0.0           # results DataFrame, groupby aggregation for the comparison table
+tabulate>=0.9.0         # DataFrame.to_markdown(), used to export mp1_comparison.md
+
+# Needed only to run the notebook itself
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Verified working set for this run:
+#   openai==3.0.0
+#   pandas==3.0.5
+#   tabulate==0.10.0
+#   Python 3.12
